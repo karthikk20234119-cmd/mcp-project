@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+
+# Antigravity Git Manager added ignores
+node_modules/
+venv/
+target/
+coverage/
+.env
+.env.local
+.idea/
+.vscode/
+*.log
